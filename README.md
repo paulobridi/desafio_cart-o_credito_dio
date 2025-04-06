@@ -23,3 +23,5 @@ Este projeto identifica a bandeira de um cartão de crédito com base no número
 3. Execute o programa com o comando:
    ```bash
    node index.js
+
+   *Obs: Todo o código foi criado com ajuda do github Copilot no ambiente virtual do codespaces do proprio github*
